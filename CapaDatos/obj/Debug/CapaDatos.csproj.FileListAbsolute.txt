@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaDatos\obj\Debug\CapaDatos.pdb

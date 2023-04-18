@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\USUARIO\Desktop\Proyecto DIARS\CapaLogica\obj\Debug\CapaLogica.pdb
