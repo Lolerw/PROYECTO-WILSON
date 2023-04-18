@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18ba8092-6a76-43d2-ad26-6044d1bf32d4": {
+      "ProjectGuid": "18ba8092-6a76-43d2-ad26-6044d1bf32d4",
+      "DisplayName": "CapaPresentacion",
+      "ColorIndex": 0
+    },
+    "6209b981-5e3b-460e-9fe2-cf11239247b2": {
+      "ProjectGuid": "6209b981-5e3b-460e-9fe2-cf11239247b2",
+      "DisplayName": "CapaEntidad",
+      "ColorIndex": 1
+    },
+    "717f3547-6903-4a1f-a653-6d9e77879a7f": {
+      "ProjectGuid": "717f3547-6903-4a1f-a653-6d9e77879a7f",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 2
+    },
+    "5bd4dbf3-dc8b-42ca-8f0a-f2498600bf24": {
+      "ProjectGuid": "5bd4dbf3-dc8b-42ca-8f0a-f2498600bf24",
+      "DisplayName": "CapaLogica",
+      "ColorIndex": 3
+    },
+    "26dc7bf2-937c-4367-ac33-5540c9fdfc0b": {
+      "ProjectGuid": "26dc7bf2-937c-4367-ac33-5540c9fdfc0b",
+      "DisplayName": "CapaEntidad",
+      "ColorIndex": 4
+    },
+    "a6386202-b3ab-468c-9147-54111f4b25b4": {
+      "ProjectGuid": "a6386202-b3ab-468c-9147-54111f4b25b4",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 5
+    },
+    "2b6fa26f-be2c-4071-b2d8-cbcdc36284f7": {
+      "ProjectGuid": "2b6fa26f-be2c-4071-b2d8-cbcdc36284f7",
+      "DisplayName": "CapaLogica",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
